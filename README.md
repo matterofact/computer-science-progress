@@ -453,7 +453,7 @@ These are courses I have completed that are either in the optional, additional s
 
 Courses | Duration | Effort | Prerequisites | Completed
 :-- | :--: | :--: | :--: | :--:
-[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential! | 1 week | 8 hours/week | none | ✅
+[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential!] (https://www.coursera.org/learn/mindshift/home/info) | 1 week | 8 hours/week | none | ✅
 
 ## Congratulations
 
