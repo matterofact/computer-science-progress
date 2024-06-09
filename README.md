@@ -443,6 +443,18 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
+### Additional Courses Completed
+
+These are courses I have completed that are either in the optional, additional section of OSSU, or are not part of this curriculum explicitly.
+
+**Topics covered**:
+`mindset`
+`learning strategies`
+
+Courses | Duration | Effort | Prerequisites | Completed
+:-- | :--: | :--: | :--: | :--:
+[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential! | 1 week | 8 hours/week | none | ✅
+
 ## Congratulations
 
 After completing the requirements of the curriculum above,
@@ -463,18 +475,6 @@ What is next for you? The possibilities are boundless and overlapping:
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-# Additional Courses Completed
-
-These are courses I have completed that are either in the optional, additional section of OSSU, or are not part of this curriculum explicitly.
-
-**Topics covered**:
-`mindset`
-`learning strategies`
-
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential! | 1 week | 8 hours/week | none | ✅
 
 ## How to show your progress
 
